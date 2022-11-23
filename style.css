@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #927DFC;
+  background: #db1d4d;
 }
 .wrapper{
   width: 450px;
@@ -82,7 +82,7 @@ body{
 }
 .sizes .column input:focus{
   padding: 0 14px;
-  border: 2px solid #927DFC;
+  border: 2px solid #db1d4d;
 }
 .content .checkboxes{
   margin-top: 20px;
@@ -95,7 +95,7 @@ body{
   width: 17px;
   height: 17px;
   margin-right: 9px;
-  accent-color: #927DFC;
+  accent-color: #db1d4d;
 }
 .content .download-btn{
   width: 100%;
@@ -107,7 +107,7 @@ body{
   border-radius: 5px;
   padding: 15px 0;
   margin: 30px 0 10px;
-  background: #927DFC;
+  background: #db1d4d;
   text-transform: uppercase;
 }
 .github-corner:hover .octo-arm {
